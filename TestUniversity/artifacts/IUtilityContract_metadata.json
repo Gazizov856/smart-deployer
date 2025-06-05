@@ -1,0 +1,65 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "bytes",
+						"name": "_initData",
+						"type": "bytes"
+					}
+				],
+				"name": "initialize",
+				"outputs": [
+					{
+						"internalType": "bool",
+						"name": "",
+						"type": "bool"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"TestUniversity/IUtilityContract.sol": "IUtilityContract"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"TestUniversity/IUtilityContract.sol": {
+			"keccak256": "0x43d433f52c6dbc6ce3475503988ecfff1dcc6d73499342ae7ebcd632e38c8b63",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://7bd4d69e5085e40e32e8babbf2c1a76a7ddb99543f752f4783c3c12a7e098d4d",
+				"dweb:/ipfs/QmZSYkCTQPWoALc9bvP87piTwfZjn4SkJEyS7U2oLpWfiM"
+			]
+		}
+	},
+	"version": 1
+}
