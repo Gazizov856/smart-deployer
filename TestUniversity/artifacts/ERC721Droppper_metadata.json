@@ -75,11 +75,6 @@
 					},
 					{
 						"internalType": "uint256[]",
-						"name": "amounts",
-						"type": "uint256[]"
-					},
-					{
-						"internalType": "uint256[]",
 						"name": "tokenId",
 						"type": "uint256[]"
 					}
@@ -162,7 +157,7 @@
 				"name": "token",
 				"outputs": [
 					{
-						"internalType": "contract IERC1155",
+						"internalType": "contract IERC721",
 						"name": "",
 						"type": "address"
 					}
@@ -232,7 +227,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"TestUniversity/ERC721Droppper.sol": "ERC1155Airdroper"
+			"TestUniversity/ERC721Droppper.sol": "ERC721Droppper"
 		},
 		"evmVersion": "prague",
 		"libraries": {},
@@ -254,12 +249,12 @@
 				"dweb:/ipfs/QmfEckWLmZkDDcoWrkEvMWhms66xwTLff9DDhegYpvHo1a"
 			]
 		},
-		"@openzeppelin/contracts/token/ERC1155/IERC1155.sol": {
-			"keccak256": "0x1d7a05b3219532ea5ece50a80cf390cac9109dc74e07763adfa463ab5a3af0dc",
+		"@openzeppelin/contracts/token/ERC721/IERC721.sol": {
+			"keccak256": "0x5dc63d1c6a12fe1b17793e1745877b2fcbe1964c3edfd0a482fac21ca8f18261",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://687e2ec572d0e63827bb0025b91f2246be4c938f830ef4b4c288ee2e3727d5ca",
-				"dweb:/ipfs/QmZXWSAQ9ftVrqNEa5ZTpN4wxvzCgsSW12cgiSRkrLTpQ8"
+				"bzz-raw://6b7f97c5960a50fd1822cb298551ffc908e37b7893a68d6d08bce18a11cb0f11",
+				"dweb:/ipfs/QmQQvxBytoY1eBt3pRQDmvH2hZ2yjhs12YqVfzGm7KSURq"
 			]
 		},
 		"@openzeppelin/contracts/utils/Context.sol": {
@@ -279,11 +274,11 @@
 			]
 		},
 		"TestUniversity/ERC721Droppper.sol": {
-			"keccak256": "0x00ce9cae1b3fd2f163e6cd498ca7a084411943c5a8ded1e54b93d6b664d1f3dc",
+			"keccak256": "0x8329cf1af87aeea094d563e154ec36d42633ca83989affcec20c522301d7f67d",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://a3318fc003c87549ed60c5a7b67fc9eb3b538e15652e0d0449a4834e8692e25d",
-				"dweb:/ipfs/QmZfwo1JW2XjRRnWPLM1W8h16xTDoMbVnYN3Q8DysooyvB"
+				"bzz-raw://11029a535775a2e45277353f73e0470158c732c406672b7205a5de308cb49850",
+				"dweb:/ipfs/QmcgpQH35sRzYgpmcMwN22xZpunRSjqtF1wRfyZuduReJJ"
 			]
 		},
 		"TestUniversity/IUtilityContract.sol": {

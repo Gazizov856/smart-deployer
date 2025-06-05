@@ -232,7 +232,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"TestUniversity/ERC721Droppper.sol": "ERC1155Airdroper"
+			"TestUniversity/ERC721Droppper.sol": "ERC1"
 		},
 		"evmVersion": "prague",
 		"libraries": {},
@@ -279,11 +279,11 @@
 			]
 		},
 		"TestUniversity/ERC721Droppper.sol": {
-			"keccak256": "0x00ce9cae1b3fd2f163e6cd498ca7a084411943c5a8ded1e54b93d6b664d1f3dc",
+			"keccak256": "0x282a808b36c3cb75fcea38bf91b7257394f1231a94bc30a563a544921371adc7",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://a3318fc003c87549ed60c5a7b67fc9eb3b538e15652e0d0449a4834e8692e25d",
-				"dweb:/ipfs/QmZfwo1JW2XjRRnWPLM1W8h16xTDoMbVnYN3Q8DysooyvB"
+				"bzz-raw://d615531426447ed1deb9eb56340ef6aa4d9df0e2c90ba16b5d2b951e31e5b5fa",
+				"dweb:/ipfs/QmToDXRzjofUDtRNQb7oXnsMfZBe9PqvXn83EzZFPr1sJE"
 			]
 		},
 		"TestUniversity/IUtilityContract.sol": {
