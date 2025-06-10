@@ -232,7 +232,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"TestUniversity/ERC721Droppper.sol": "ERC1155Airdroper"
+			"TestUniversity/1155Dropper.sol": "ERC1155Airdroper"
 		},
 		"evmVersion": "prague",
 		"libraries": {},
@@ -278,7 +278,7 @@
 				"dweb:/ipfs/QmfDRc7pxfaXB2Dh9np5Uf29Na3pQ7tafRS684wd3GLjVL"
 			]
 		},
-		"TestUniversity/ERC721Droppper.sol": {
+		"TestUniversity/1155Dropper.sol": {
 			"keccak256": "0x00ce9cae1b3fd2f163e6cd498ca7a084411943c5a8ded1e54b93d6b664d1f3dc",
 			"license": "MIT",
 			"urls": [
